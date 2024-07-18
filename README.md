@@ -1,9 +1,14 @@
 InditexPrueba
+
 #Descripción Este proyecto es una configuración básica para un proyecto Maven que utiliza RestAssured para pruebas de servicios RESTful. RestAssured es una biblioteca Java que simplifica la validación de servicios RESTful. El objetivo es hacer unas pruebas sobre la API petstore.swagger.io/v2
 
-#Estructura del Proyecto El fichero pom.xml del proyecto define las dependencias necesarias para trabajar con RestAssured y Jackson, una biblioteca para el procesamiento de JSON en Java.
+#Estructura del Proyecto 
 
-#Requisitos Para poder compilar y ejecutar este proyecto, necesitarás tener instalado:
+El fichero pom.xml del proyecto define las dependencias necesarias para trabajar con RestAssured y Jackson, una biblioteca para el procesamiento de JSON en Java.
+
+#Requisitos 
+
+Para poder compilar y ejecutar este proyecto, necesitarás tener instalado:
 
 Java 8 o superior Apache Maven 3.6.0 o superior
 
