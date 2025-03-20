@@ -21,7 +21,7 @@ Jackson Core: Para procesamiento básico de JSON.
 Jackson Databind: Para vincular datos JSON a objetos Java.
 #Instalación Para clonar y ejecutar este proyecto, sigue estos pasos:
 
-Clona el repositorio: git clone https://github.com/eliaparra/InditexPrueba.git
+Clona el repositorio: git clone https://github.com/eliaparra/API_RestAssured.git
 Navega al directorio del proyecto: cd restAssured
 Compila el proyecto utilizando Maven: mvn clean install
 #Uso
